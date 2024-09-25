@@ -1,6 +1,6 @@
 # KYC
 
-## Ticket NUmber
+## Ticket Number
 3019
 
 ## Domain URL
