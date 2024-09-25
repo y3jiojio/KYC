@@ -5,4 +5,4 @@
 
 ## Domain URL
 animara.world
-apo.animara.world
+app.animara.world
